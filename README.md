@@ -12,17 +12,14 @@ Upon completing my degree in May 2024, I intend to leverage these newly honed co
 
 # Portfolio
 
-# (Under Development) Examples
+# Examples
 This section is under development.
 
-## (Under Development) Assignment: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment: Visualizing Government Debt
 This section is under development.
 
-## (Under Development) Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: Critique by Design
 This section is under development.
 
-## (Under Development) Final project
+## Final project
 This section is under development.
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
