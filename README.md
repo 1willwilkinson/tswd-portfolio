@@ -5,10 +5,10 @@ An alumnus of HBS’s Tribal Leaders Program and a graduate of Haskell Indian Na
 
 # What I hope to learn
 - **Data Visualization Mastery**: I'm interested in learning how to craft data illustrations efficiently for varying audiences, recognizing the importance of tailoring visualizations to resonate with different stakeholders.
-- **Technical Proficiency**: With a passion for new technology, I aim to become proficient in GitHub and data modeling applications presented in this course, broadening my technical toolkit for data analysis and storytelling.
+- **Technical Proficiency**: With a passion for new technology, I aim to become proficient in GitHub and data modeling applications presented in this course, broadening my technical toolkit for data analysis.
 - **Predictive Analytics Skills**: I seek to enhance my predictive analytics abilities, enabling me to forecast trends and make data-driven predictions, a skill set that is increasingly vital in policy-making and strategic decision-making.
 
-Upon completing my degree in May 2024, I intend to leverage these newly honed competencies in a role that intersects with technology, policy, or strategic consulting. My career search is broad, encompassing potential positions in government agencies, non-profit organizations, or the private sector. Regardless of the specific role I acquire, my commitment is steadfast: to utilize data in crafting stories that not only inform but also inspire change and propel societal advancement.
+Upon completing my degree in May 2024, I intend to leverage these newly honed competencies in a role within tech, policy, or strategic consulting. My career search is broad, encompassing potential positions in government agencies, non-profit organizations, or the private sector. Regardless of the specific role I acquire, my commitment is steadfast: to utilize data in crafting stories that not only inform but also inspire change and propel societal advancement.
 
 # Portfolio
 
