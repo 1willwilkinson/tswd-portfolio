@@ -1,36 +1,41 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+# The EV Effect: Environmental, Economic, and Policy Dynamics in the U.S.
+For this project I plan on reporting on electric vehicles (EVs) in the United States - specifically explore the economics, environmental impact, sustainability, and federal initiatives related to EVs, focusing on how these elements intertwine and affect individuals and communities.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+I will begin by examining the current economic landscape of EVs, using case studies to illustrate how businesses and consumers are adapting to and shaping this market. I intend to present economic data through interactive charts or graphs that allow viewers to explore different aspects of EV economics, like cost comparisons between EVs and traditional vehicles over time.
+Draft sketch: https://github.com/1willwilkinson/tswd-portfolio/blob/198f1909038f7b59aba642c99031be339cdecc31/TSWD%20EV%202.png
 
-Text here...
+Next, I will delve into the environmental impact of EVs. This section will look at the broader implications of EV adoption on sustainability. I plan to use infographics to depict the lifecycle of an EV, from manufacturing to recycling, highlighting key environmental benefits and challenges.
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+The role of federal policies in promoting EVs will be a crucial part of my project. I'll explore how these policies are shaping the EV landscape and their impact on various stakeholders. To visually represent this, I might create an interactive timeline showing the introduction of federal policies and their corresponding effects on EV adoption rates.
+Draft sketch: https://github.com/1willwilkinson/tswd-portfolio/blob/198f1909038f7b59aba642c99031be339cdecc31/TSWD%20EV.png
 
-Text here...
+In discussing the regional adaptation to EVs across the U.S., I will include a mix of narratives from different areas, highlighting unique challenges and successes. I envision using a dynamic map of the United States, showing the density of EV charging stations, adoption rates, or policy incentives by state or region, providing a clear visual representation of regional disparities and progress.
+Draft sketch: https://github.com/1willwilkinson/tswd-portfolio/blob/198f1909038f7b59aba642c99031be339cdecc31/TSWD%20EV%203.png
+
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+Global EV Data Explorer
+https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer#
 
-Text here...
+FACT SHEET: Biden-⁠Harris Administration Announces New Private and Public Sector Investments for Affordable Electric Vehicles
+https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/17/fact-sheet-biden-harris-administration-announces-new-private-and-public-sector-investments-for-affordable-electric-vehicles/
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+FACT SHEET: President Biden’s Economic Plan Drives America’s Electric Vehicle Manufacturing Boom
+https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/14/fact-sheet-president-bidens-economic-plan-drives-americas-electric-vehicle-manufacturing-boom/
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+United States EV Fast-Charging Corridor Road Map
+https://betterenergy.org/wp-content/uploads/2023/01/EV_CorridorRoadmap2023.pdf
+
+Visualizing America’s Electric Vehicle Future
+https://www.visualcapitalist.com/sp/visualizing-americas-electric-vehicle-future/
+
+Mapping Jobs and the Transition to Electric Vehicle Assembly in the US
+https://www.thirdway.org/memo/mapping-jobs-and-the-transition-to-electric-vehicle-assembly-in-the-u-s
+
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan to utilize Shorthand for my project. Through the use of smooth transitions, interactive imaging, and dynamic mapping, I aim to engage viewers deeply, making complex information about electric vehicles both accessible and memorable. These interactive elements will not only enhance the narrative but also encourage audience interaction, fostering a more profound understanding and connection with the content.
