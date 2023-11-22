@@ -6,14 +6,17 @@
 For this project I plan on reporting on electric vehicles (EVs) in the United States - specifically explore the economics, environmental impact, sustainability, and federal initiatives related to EVs, focusing on how these elements intertwine and affect individuals and communities.
 
 I will begin by examining the current economic landscape of EVs, using case studies to illustrate how businesses and consumers are adapting to and shaping this market. I intend to present economic data through interactive charts or graphs that allow viewers to explore different aspects of EV economics, like cost comparisons between EVs and traditional vehicles over time.
+
 Draft sketch: https://github.com/1willwilkinson/tswd-portfolio/blob/198f1909038f7b59aba642c99031be339cdecc31/TSWD%20EV%202.png
 
 Next, I will delve into the environmental impact of EVs. This section will look at the broader implications of EV adoption on sustainability. I plan to use infographics to depict the lifecycle of an EV, from manufacturing to recycling, highlighting key environmental benefits and challenges.
 
 The role of federal policies in promoting EVs will be a crucial part of my project. I'll explore how these policies are shaping the EV landscape and their impact on various stakeholders. To visually represent this, I might create an interactive timeline showing the introduction of federal policies and their corresponding effects on EV adoption rates.
+
 Draft sketch: https://github.com/1willwilkinson/tswd-portfolio/blob/198f1909038f7b59aba642c99031be339cdecc31/TSWD%20EV.png
 
 In discussing the regional adaptation to EVs across the U.S., I will include a mix of narratives from different areas, highlighting unique challenges and successes. I envision using a dynamic map of the United States, showing the density of EV charging stations, adoption rates, or policy incentives by state or region, providing a clear visual representation of regional disparities and progress.
+
 Draft sketch: https://github.com/1willwilkinson/tswd-portfolio/blob/198f1909038f7b59aba642c99031be339cdecc31/TSWD%20EV%203.png
 
 
