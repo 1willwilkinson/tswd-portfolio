@@ -6,10 +6,12 @@ Originally my project encompassed a broad spectrum of the EV market, including e
 To effectively communicate these complex issues, I plan to incorporate innovative data visualizations and heat maps into my presentation. Data visualizations will present statistics on the environmental impact of EV production, such as the carbon footprint of manufacturing an EV versus a traditional vehicle, in a clear and engaging manner. I plan to use heat maps to visually represent regions most impacted by the mining of materials for electric vehicles. These maps will show the intensity of environmental damage or resource depletion in certain areas. These visual tools will not only make the information more accessible but also more impactful, enabling my audience to visually grasp the scale and seriousness of these environmental concerns. It's important to note that the data displayed is fictional and solely intended for explanatory purposes in the project.
 
 >Link to Heat Map
-https://github.com/1willwilkinson/tswd-portfolio/blob/f673af7179eaad1cb585623c49785ab649a4b8d6/1.png
+
+(https://github.com/1willwilkinson/tswd-portfolio/blob/f673af7179eaad1cb585623c49785ab649a4b8d6/1.png)
 
 >Link to Stacked Chart
-https://github.com/1willwilkinson/tswd-portfolio/blob/f673af7179eaad1cb585623c49785ab649a4b8d6/2.png
+
+(https://github.com/1willwilkinson/tswd-portfolio/blob/f673af7179eaad1cb585623c49785ab649a4b8d6/2.png)
 
 This focus is not only timely but also aligns perfectly with current concerns about sustainable practices and ethical sourcing in manufacturing. It engages my target audience more effectively, including those interested in sustainability, ethics in manufacturing, and the future of green technologies. By honing in on this specific aspect, my research becomes more manageable and structured, allowing for a focused exploration of case studies, expert interviews, and environmental reports.
 
@@ -28,7 +30,7 @@ I am targeting a diverse group of individuals to ensure a broad spectrum of pers
 ## Interview findings
 | Questions               | Interview 1 (35-year-old EV owner) | Interview 2 (25-year-old environmental activist) | Interview 3 (19-year-old potential EV buyer) |
 |-------------------------|--------------------------------|-------------|-------------|
-|What is your current perception of electric vehicles in terms of environmental friendliness?|Believed EVs were completely environmentally friendly.|Had some knowledge about the environmental impacts of EV production.|Initially thought EVs were the best option for reducing carbon footprint.
+|What is your current perception of electric vehicles in terms of environmental friendliness?|Believed EVs were completely environmentally friendly.|Had some knowledge about the environmental impacts of EV production.|Initially thought EVs were the best option for reducing carbon footprint.|
 |Were you aware of the environmental impacts associated with the production of EVs, especially concerning battery materials?|Wasn't fully aware of the environmental costs of battery production.|Expressed concern about unethical mining practices and the need for better recycling methods.|Was surprised to learn about the environmental costs of EV production.|
 |How does this information about the production impact influence your opinion or potential decision to purchase an EV?|Felt conflicted but still positive about EVs, emphasizing the need for more sustainable production practices.|Suggested more government intervention to ensure ethical production processes.|Indicated a desire for more transparency from manufacturers and considered this information crucial for making a future purchase decision.|
 
