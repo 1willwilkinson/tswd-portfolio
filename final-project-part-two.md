@@ -5,6 +5,12 @@ Originally my project encompassed a broad spectrum of the EV market, including e
 
 To effectively communicate these complex issues, I plan to incorporate innovative data visualizations and heat maps into my presentation. Data visualizations will present statistics on the environmental impact of EV production, such as the carbon footprint of manufacturing an EV versus a traditional vehicle, in a clear and engaging manner. I plan to use heat maps to visually represent regions most impacted by the mining of materials for electric vehicles. These maps will show the intensity of environmental damage or resource depletion in certain areas. These visual tools will not only make the information more accessible but also more impactful, enabling my audience to visually grasp the scale and seriousness of these environmental concerns. It's important to note that the data displayed is fictional and solely intended for explanatory purposes in the project.
 
+>Link to Heat Map
+https://github.com/1willwilkinson/tswd-portfolio/blob/f673af7179eaad1cb585623c49785ab649a4b8d6/1.png
+
+>Link to Stacked Chart
+https://github.com/1willwilkinson/tswd-portfolio/blob/f673af7179eaad1cb585623c49785ab649a4b8d6/2.png
+
 This focus is not only timely but also aligns perfectly with current concerns about sustainable practices and ethical sourcing in manufacturing. It engages my target audience more effectively, including those interested in sustainability, ethics in manufacturing, and the future of green technologies. By honing in on this specific aspect, my research becomes more manageable and structured, allowing for a focused exploration of case studies, expert interviews, and environmental reports.
 
 # User research 
