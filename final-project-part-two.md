@@ -22,7 +22,7 @@ I am targeting a diverse group of individuals to ensure a broad spectrum of pers
 ## Interview findings
 | Questions               | Interview 1 (35-year-old EV owner) | Interview 2 (25-year-old environmental activist) | Interview 3 (19-year-old potential EV buyer) |
 |-------------------------|--------------------------------|-------------|-------------|
-|What is your current perception of electric vehicles in terms of environmental friendliness?| Insightful feedback|Believed EVs were completely environmentally friendly.|Had some knowledge about the environmental impacts of EV production.|Initially thought EVs were the best option for reducing carbon footprint.
+|What is your current perception of electric vehicles in terms of environmental friendliness?|Believed EVs were completely environmentally friendly.|Had some knowledge about the environmental impacts of EV production.|Initially thought EVs were the best option for reducing carbon footprint.
 |Were you aware of the environmental impacts associated with the production of EVs, especially concerning battery materials?|Wasn't fully aware of the environmental costs of battery production.|Expressed concern about unethical mining practices and the need for better recycling methods.|Was surprised to learn about the environmental costs of EV production.|
 |How does this information about the production impact influence your opinion or potential decision to purchase an EV?|Felt conflicted but still positive about EVs, emphasizing the need for more sustainable production practices.|Suggested more government intervention to ensure ethical production processes.|Indicated a desire for more transparency from manufacturers and considered this information crucial for making a future purchase decision.|
 
