@@ -2,10 +2,6 @@
 
 # The final data story
 
-TEST
-TEST
-TEST
-
 Text here!
 
 # Changes made since Part II
